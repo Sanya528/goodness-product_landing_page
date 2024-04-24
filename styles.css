@@ -43,6 +43,7 @@ header:after {
   display:flex;
   align-items: center;
   gap:5px;
+  padding-right:21%;
 }
 
 nav > ul {
