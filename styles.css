@@ -2,6 +2,7 @@ body {
   overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 .page{
+  margin-top:150px;
   margin-left:100px;
   margin-right:100px;
 }
@@ -116,7 +117,7 @@ h2{
   margin-bottom: 10px;
 }
 
-iframe{
+#video{
   margin-left:30%;
   margin-right:30%;
   width:500px;
@@ -192,7 +193,7 @@ h4{
     margin-left: 1px;
     margin-right: 1px;
   }
-  iframe{
+  #video{
     margin-left:25%;
     margin-right:25%;
     width:250px;
